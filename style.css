@@ -1,0 +1,33 @@
+html{
+    background-color: pink;
+}
+
+.subtext{
+    font-size: 16px;
+    margin-top: 6px;
+    line-height: 1.5;
+    color:brown;
+    font-style:italic;
+    font-size: xx-small;
+    
+}
+
+
+a img{
+    width: 200;
+    border-radius: 15px;
+    transition: transform 0.3 ease;
+}
+
+a img:hover{
+    transform: scale(1.05);
+}
+
+*{
+    text-align: center;
+}
+
+h1{
+    color: brown;
+}
+

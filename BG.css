@@ -1,0 +1,25 @@
+*{
+    background-color: lightblue;
+}
+
+div{
+    text-align: center;
+}
+
+p{
+    font-style:oblique;
+}
+
+img{
+    width: 200;
+    border-radius: 15px;
+    transition: transform 0.3 ease;
+}
+
+img:hover{
+    transform: scale(1.05);
+}
+
+.love-list li::before{content:"✨";}
+
+
